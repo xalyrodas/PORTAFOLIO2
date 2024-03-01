@@ -1,0 +1,116 @@
+html {
+    font-size: 10px; 
+}
+.pantalla {
+    max-width: 37.5rem;
+    margin: auto;
+    padding: 1rem;
+}
+header {
+    width: 100%;
+    height: 6rem;
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.npage {
+    font-size: 2.4rem;
+}
+.logo-menu {
+    font-size: 2.4rem; 
+}
+.img-perfil {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.img-pf {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.informacion h1 {
+    font-size: 2rem;
+}
+
+.informacionp {
+    margin-top: 1rem;
+    font-size: 1.4rem;
+
+}
+.estado {
+    margin: 2rem 0rem;
+    
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    gap: 1rem;
+}
+
+.divb {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.aboutme {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20rem;
+    height: 3rem;
+    font-size: 2rem;
+    background-color: gainsboro;
+    color: black;
+}
+
+.perfil-img-2 {
+    width: 28rem;
+    height: 25rem;
+    margin: 2rem auto 2rem auto;
+}
+
+.img-2{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.columnas {
+    padding-top: 3rem;
+    gap: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.columnas img {
+    display: block;
+    margin: auto; 
+}
+
+.columnas p {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.ultm-columna {
+    padding-top: 3rem;
+    padding: 2rem;
+    gap: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.ultm-columna img {
+    display: block;
+    margin: auto; 
+}
+
+.ultm-columna p {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
